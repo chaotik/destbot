@@ -1,0 +1,24 @@
+{
+  "name": "destbot",
+  "version": "1.0.0",
+  "description": "destiny bot",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaotik/destbot.git"
+  },
+  "keywords": [
+    "destiny"
+  ],
+  "author": "Wes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaotik/destbot/issues"
+  },
+  "homepage": "https://github.com/chaotik/destbot#readme"
+}

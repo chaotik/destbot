@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "slack-destiny-bot@^1.0.4",
+      "/home/wes/war6"
+    ]
+  ],
+  "_from": "slack-destiny-bot@>=1.0.4 <2.0.0",
+  "_id": "slack-destiny-bot@1.0.4",
+  "_inCache": true,
+  "_location": "/slack-destiny-bot",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "cprater23@gmail.com",
+    "name": "cprater"
+  },
+  "_npmVersion": "2.13.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "slack-destiny-bot",
+    "raw": "slack-destiny-bot@^1.0.4",
+    "rawSpec": "^1.0.4",
+    "scope": null,
+    "spec": ">=1.0.4 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/slack-destiny-bot/-/slack-destiny-bot-1.0.4.tgz",
+  "_shasum": "47cbac216ec448472be40e1f2be74c762760957f",
+  "_shrinkwrap": null,
+  "_spec": "slack-destiny-bot@^1.0.4",
+  "_where": "/home/wes/war6",
+  "author": {
+    "email": "cprater23@gmai.com",
+    "name": "Chris Prater"
+  },
+  "bugs": {
+    "url": "https://github.com/cprater/slack-destiny-bot/issues"
+  },
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "dotenv": "^1.2.0",
+    "promise.coffee": "^1.0.6",
+    "request": "^2.64.0"
+  },
+  "description": "Slack integrated hubot to interact (readonly) with the Bungie Destiny API",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "47cbac216ec448472be40e1f2be74c762760957f",
+    "tarball": "http://registry.npmjs.org/slack-destiny-bot/-/slack-destiny-bot-1.0.4.tgz"
+  },
+  "gitHead": "042cfab09ebb684600a2b3c87dbb6953afe52de2",
+  "homepage": "https://github.com/cprater/slack-destiny-bot#readme",
+  "installable": true,
+  "license": "ISC",
+  "main": "index.coffee",
+  "maintainers": [
+    {
+      "name": "cprater",
+      "email": "cprater23@gmail.com"
+    }
+  ],
+  "name": "slack-destiny-bot",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprater/slack-destiny-bot.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
